@@ -12,11 +12,6 @@ public class Base_Class {
 	{
 	WebDriver driver= null ; 
 	
-	
-	
-	
-	
-	
 	if(browser.equals("chrome"))
 	{
 		WebDriverManager.chromedriver().setup();
