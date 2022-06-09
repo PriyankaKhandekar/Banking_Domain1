@@ -17,7 +17,6 @@ import UtilityClasses.UtilityClass;
 public class Login_Page extends UtilityClass{
 
 	WebDriver driver;
-	
 	@FindBy(xpath="//span[text()='Login/Register']")
 	private WebElement registration;
 
